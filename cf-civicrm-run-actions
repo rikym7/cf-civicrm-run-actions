@@ -1,0 +1,10 @@
+<?php
+/*
+Plugin Name: Caldera CiviCRM Run Actions
+Plugin URI: https://github.com/rikym7/cf-civicrm-run-actions
+Description: Adds Caldera Run Actions Helper functions
+Version: 0.0.1
+Author: Rick Myers
+Author URI: https://github.com/rikym7/
+*/
+?>
